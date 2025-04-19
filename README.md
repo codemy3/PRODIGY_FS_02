@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # PRODIGY_FS_02
 Employee Management System built with Next.js and MongoDB. This system allows admins to manage employee records (add, edit, delete) and features secure JWT-based authentication. It includes an admin dashboard for smooth data management and real-time updates, improving my skills in full-stack development.
 =======
@@ -39,3 +40,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 >>>>>>> e4fc9e5 (Initial commit from Create Next App)
+=======
+# PRODIGY_FS_02
+Employee Management System built with Next.js and MongoDB. This system allows admins to manage employee records (add, edit, delete) and features secure JWT-based authentication. It includes an admin dashboard for smooth data management and real-time updates, improving my skills in full-stack development.
+>>>>>>> 4bfd0939ddaf49a78815e9984c31a4f40c172d57
